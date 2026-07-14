@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="32px"/>Olá!
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=8418DE&width=980&lines=Bem-vindo+ao+meu+perfil;Transformando+l%C3%B3gica+em+sistemas+bem+estruturados;Back-end+%7C+Modelagem+de+Dados+%7C+Arquitetura+de+Software+%7C+LLM+%7C+IA" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=8418DE&width=980&lines=Bem-vindo+ao+meu+perfil;" />
   
 
 Meu nome é Paulo Vigílio Cerqueira. Sou estudante de engenharia de software. Tenho uma preferência especial pelo desenvolvimento backend.

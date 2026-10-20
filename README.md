@@ -1,4 +1,4 @@
-Meu nome é Paulo Vigílio Cerqueira. Sou estudante de engenharia de software. Tenho uma preferência especial pelo desenvolvimento backend.
+Meu nome é Paulo Vigílio Cerqueira. Sou estudante de engenharia de software. Tenho interesse maior por DevOps/Infraestrutura e desenvolvimento backend.
 
 Atualmente, desenvolvo projetos para a web e tenho um interesse crescente em DevOps, infraestrutura, inteligência artificial e computação em nuvem.
 

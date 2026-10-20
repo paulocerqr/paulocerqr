@@ -37,4 +37,4 @@ Atualmente, desenvolvo projetos para a web e tenho um interesse crescente em Dev
 
 ##
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulocerqr&theme=redical&hide_border=true" />
+
